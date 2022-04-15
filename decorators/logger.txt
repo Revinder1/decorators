@@ -1,0 +1,1 @@
+Name: get_shop_list_by_dishes, arguments: (['Омлет', 'Омлет'], 2), call_time: 2022-04-15 02:14:14, result: {'Яйцо': {'quantity': 8, 'measure': 'шт'}, 'Молоко': {'quantity': 400, 'measure': 'мл'}, 'Помидор': {'quantity': 8, 'measure': 'шт'}}
